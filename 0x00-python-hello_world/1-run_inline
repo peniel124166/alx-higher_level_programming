@@ -1,1 +1,2 @@
-1-run_inline
+#!/bin/bash
+python3 -c "$PYCODE"
